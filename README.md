@@ -1,7 +1,3 @@
-# **Terraform-Datadog-Monitors**
-**IAC code to deploy Datadog monitors, SLOs, custom metrics, log indexes, and downtimes.**
-
-
 # Terraform Datadog Configuration
 
 This repository contains Terraform configurations for setting up various components in Datadog, including monitors, SLOs, downtimes, custom metric tags, metric metadata, and log indexes. These configurations allow for a streamlined and consistent setup of Datadog resources, tailored to specific needs.
